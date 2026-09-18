@@ -1,4 +1,3 @@
-<img width="1462" height="498" alt="31" src="https://github.com/user-attachments/assets/3f0baa2a-eeed-44cc-869b-5bb903d7c6ce" /># computer-science-lab1
 Лабораторная работа №1
 # Анализ информационной системы
 ## 1. Описание системы
