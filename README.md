@@ -70,25 +70,25 @@
 Скриншот 1. Главная страница сайта
 На скриншоте показана главная страница Яндекс Карты 
 
-<img width="1470" height="838" alt="21" src="https://github.com/user-attachments/assets/d42bfa77-6532-4e40-9808-426222e73853" />
+
 
 
 Скриншот 2. Поиск и выбор мест
 На скриншоте показана шапка каталогов карт
 
-<img width="420" height="837" alt="22" src="https://github.com/user-attachments/assets/b8c1b519-4aed-4497-88dd-99334cd2591f" />
+
 
 
 Скриншот 3. Карта выбранного места
 На скриншоте показано местоположение выбранной организации
 
-<img width="1470" height="837" alt="23" src="https://github.com/user-attachments/assets/b83b1583-89e7-444a-ad77-cf3c4c266dab" />
+
 
 
 Скриншот 4. Маршрут
 На скриншоте показана шапка возможностей для выбранной организации
 
-<img width="1470" height="837" alt="24" src="https://github.com/user-attachments/assets/041aa239-6d48-4662-b2ca-b95be6a35130" />
+
 
 
 ### 2.6 Вывод
@@ -118,7 +118,7 @@
 
 Скриншот HTML-структуры:
 
-<img width="1462" height="498" alt="31" src="https://github.com/user-attachments/assets/be65d939-a246-4f0e-8c4d-6d8570bd6b67" />
+
 
 
 ### 3.2. Исследование CSS
@@ -134,7 +134,7 @@ color -	Определяет цвет текста
 background - Определяет фон элемента
 cursor - Определяет вид курсора при наведении на элемент
 
-<img width="416" height="332" alt="32" src="https://github.com/user-attachments/assets/9f644061-7979-4af5-bfdf-809af42f88ec" />
+
 
 
 ### 3.3 Исследование JavaScript
@@ -153,7 +153,7 @@ JavaScript отвечает, в частности, за:
 
 Скриншот загруженных JavaScript - файлов:
 
-<img width="1458" height="468" alt="33" src="https://github.com/user-attachments/assets/1e1c8341-ad6f-4071-a129-c2141302bbcd" />
+
 
 
 ### 3.4 Загружаемые ресурсы 
