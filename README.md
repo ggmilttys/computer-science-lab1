@@ -282,3 +282,4 @@ api-maps.yandex.ru	Загрузка JavaScript API, скриптов, курсо
 ### 6. Архитектурная схема 
 ![](diagrams/images/6.drawio.png)
 
+Пусть он закоммится плиз
